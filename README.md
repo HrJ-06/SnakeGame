@@ -2,6 +2,9 @@
 
 This is a simple console-based Snake game implemented in C++. The game utilizes the Windows console for display and input handling.
 
+![image](https://github.com/HrJ-06/SnakeGame/assets/125086766/b19b6803-15f6-486f-9944-957fa6cfde8c)
+
+
 ## Features
 
 - **Snake Movement**: Control the snake's direction using W (up), A (left), S (down), and D (right) keys.
